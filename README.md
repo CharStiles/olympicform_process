@@ -1,5 +1,5 @@
 # Olympic form
-this is a rough upload of the code i used to create [[olympic form](http://www.charstiles.github.io/olympicForm)](https://charstiles.github.io/olympicForm/)
+this is a rough upload of the code i used to create [olympic form](https://charstiles.github.io/olympicForm/)
 ## Requirement
 
 Openframeworks 12, might work with other versions, havent tested.
