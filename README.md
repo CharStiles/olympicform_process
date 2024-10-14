@@ -1,14 +1,16 @@
 # Olympic form
 this is a rough upload of the code i used to create [olympic form](charstiles.github.io/olympicForm)
 ## Requirement
+
 Openframeworks 12, might work with other versions, havent tested.
+
 [ofxTensorflow2](https://github.com/zkmkarlsruhe/ofxTensorFlow2) I had to do some special stuff to get it to work i forgot what it was, you can ask me to remember if you want, but i think what i had to do it in the issues section of the linked repo.
-you can include videos to run on in the data folder, but I also made so that it works with ofxSyphon so you can run it on live input.
-it also uses ofxOpenCv to do the shape matching. 
 
-The readme for the example project this project was built upon is here:
+you can include videos to run on in the bin/data folder, but I also made so that it works with [ofxSyphon](https://github.com/astellato/ofxSyphon) so you can run it on live input. It should automatically choose the last syphon input in the list of inputs
+it also uses [ofxOpenCv](https://openframeworks.cc/documentation/ofxOpenCv/) to do the shape matching. 
 
-# Video Matting Example
+##The readme for the example project this project was built upon is here:
+## Video Matting Example
 Realtime background substraction for video or webcam using MobileNetV3. 
 Model provided by https://github.com/PeterL1n/RobustVideoMatting
 
